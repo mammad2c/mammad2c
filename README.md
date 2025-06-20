@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-end engineer with more than 8 years of experience. Dedicated the last 4 years to developing SaaS (Software as a Service) solutions for B2B (Business-to-Business) and B2C (Business-to-Consumer) businesses. Expertise in React.js, Vue.js, and modern front-end development tools. Ability to solve problems, adapt to changing requirements, and work effectively in teams. Delivering user-friendly, high-quality software and utilizing agile development methodologies are experiences.
+Front-end engineer with more than 10 years of experience. Dedicated the latest years to developing SaaS (Software as a Service) solutions for B2B (Business-to-Business) and B2C (Business-to-Consumer) businesses. Expertise in React.js, Vue.js, and modern front-end development tools. Ability to solve problems, adapt to changing requirements, and work effectively in teams. Delivering user-friendly, high-quality software and utilizing agile development methodologies are experiences.
 
 
 ## 🌐 Socials:
